@@ -1,0 +1,14 @@
+C:\Users\mbouk\OneDrive\YH - Skola\Projects\1. Objektorienterad programmering med C# och .NET\Lab 5 – Grunderna OOP\Lab5GrundernaOOP\Lab5GrundernaOOP\bin\Debug\netcoreapp3.1\Lab5GrundernaOOP.exe
+C:\Users\mbouk\OneDrive\YH - Skola\Projects\1. Objektorienterad programmering med C# och .NET\Lab 5 – Grunderna OOP\Lab5GrundernaOOP\Lab5GrundernaOOP\bin\Debug\netcoreapp3.1\Lab5GrundernaOOP.deps.json
+C:\Users\mbouk\OneDrive\YH - Skola\Projects\1. Objektorienterad programmering med C# och .NET\Lab 5 – Grunderna OOP\Lab5GrundernaOOP\Lab5GrundernaOOP\bin\Debug\netcoreapp3.1\Lab5GrundernaOOP.runtimeconfig.json
+C:\Users\mbouk\OneDrive\YH - Skola\Projects\1. Objektorienterad programmering med C# och .NET\Lab 5 – Grunderna OOP\Lab5GrundernaOOP\Lab5GrundernaOOP\bin\Debug\netcoreapp3.1\Lab5GrundernaOOP.runtimeconfig.dev.json
+C:\Users\mbouk\OneDrive\YH - Skola\Projects\1. Objektorienterad programmering med C# och .NET\Lab 5 – Grunderna OOP\Lab5GrundernaOOP\Lab5GrundernaOOP\bin\Debug\netcoreapp3.1\Lab5GrundernaOOP.dll
+C:\Users\mbouk\OneDrive\YH - Skola\Projects\1. Objektorienterad programmering med C# och .NET\Lab 5 – Grunderna OOP\Lab5GrundernaOOP\Lab5GrundernaOOP\bin\Debug\netcoreapp3.1\Lab5GrundernaOOP.pdb
+C:\Users\mbouk\OneDrive\YH - Skola\Projects\1. Objektorienterad programmering med C# och .NET\Lab 5 – Grunderna OOP\Lab5GrundernaOOP\Lab5GrundernaOOP\obj\Debug\netcoreapp3.1\Lab5GrundernaOOP.csproj.AssemblyReference.cache
+C:\Users\mbouk\OneDrive\YH - Skola\Projects\1. Objektorienterad programmering med C# och .NET\Lab 5 – Grunderna OOP\Lab5GrundernaOOP\Lab5GrundernaOOP\obj\Debug\netcoreapp3.1\Lab5GrundernaOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbouk\OneDrive\YH - Skola\Projects\1. Objektorienterad programmering med C# och .NET\Lab 5 – Grunderna OOP\Lab5GrundernaOOP\Lab5GrundernaOOP\obj\Debug\netcoreapp3.1\Lab5GrundernaOOP.AssemblyInfoInputs.cache
+C:\Users\mbouk\OneDrive\YH - Skola\Projects\1. Objektorienterad programmering med C# och .NET\Lab 5 – Grunderna OOP\Lab5GrundernaOOP\Lab5GrundernaOOP\obj\Debug\netcoreapp3.1\Lab5GrundernaOOP.AssemblyInfo.cs
+C:\Users\mbouk\OneDrive\YH - Skola\Projects\1. Objektorienterad programmering med C# och .NET\Lab 5 – Grunderna OOP\Lab5GrundernaOOP\Lab5GrundernaOOP\obj\Debug\netcoreapp3.1\Lab5GrundernaOOP.csproj.CoreCompileInputs.cache
+C:\Users\mbouk\OneDrive\YH - Skola\Projects\1. Objektorienterad programmering med C# och .NET\Lab 5 – Grunderna OOP\Lab5GrundernaOOP\Lab5GrundernaOOP\obj\Debug\netcoreapp3.1\Lab5GrundernaOOP.dll
+C:\Users\mbouk\OneDrive\YH - Skola\Projects\1. Objektorienterad programmering med C# och .NET\Lab 5 – Grunderna OOP\Lab5GrundernaOOP\Lab5GrundernaOOP\obj\Debug\netcoreapp3.1\Lab5GrundernaOOP.pdb
+C:\Users\mbouk\OneDrive\YH - Skola\Projects\1. Objektorienterad programmering med C# och .NET\Lab 5 – Grunderna OOP\Lab5GrundernaOOP\Lab5GrundernaOOP\obj\Debug\netcoreapp3.1\Lab5GrundernaOOP.genruntimeconfig.cache

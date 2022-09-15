@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eQDrb57GHa65PC/W/JgbPKHXeJIHLXm9/WBRdT1C68F8AnXE4F0I1C3kdUFb3lLqTO49qAPY2FlXCS2LEPbuGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mbouk\\OneDrive\\YH - Skola\\Projects\\1. Objektorienterad programmering med C# och .NET\\Lab 5 – Grunderna OOP\\Lab5GrundernaOOP\\Lab5GrundernaOOP\\Lab5GrundernaOOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mbouk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}
